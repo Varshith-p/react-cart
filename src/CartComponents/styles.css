@@ -1,0 +1,20 @@
+.box {
+    border: 1px solid rgb(60, 59, 59);
+    width: 90vw;
+    margin: 8px auto;
+}
+
+.myButton {
+    margin: 10px;
+}
+
+.container {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    min-height: 20px;
+    margin: 8px;
+}
+
+table {
+    margin: 8px;
+}
